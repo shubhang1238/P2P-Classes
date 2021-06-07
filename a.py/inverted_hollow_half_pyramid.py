@@ -1,4 +1,4 @@
-# Invert pryamid
+
 print("\ninverted half pyramid:")
 row5=int(input("enter no. of rows:"))
 for row in range(1,row5+1):
